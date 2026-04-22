@@ -16,3 +16,6 @@ run: $(PROJECT)
 clean:
 	rm -f $(PROJECT) $(PROJECT).o
 
+test:
+	bash tests/test.sh
+
