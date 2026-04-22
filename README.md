@@ -29,5 +29,11 @@ CRITICAL 503 DETECTED
 - GNU Assembler (as, ld)
 - AWS Ubuntu 24 ARM64
 
+## Evidencia de ejecución
+
+<img width="896" height="597" alt="evidenciaimg" src="https://github.com/user-attachments/assets/b959380a-4764-4724-8072-4b81a4527c17" />
+
+Asciinema: https://asciinema.org/a/LBMUwGmrV1RqHSGI 
+
 ## Autor
 Maldonado Avendaño Valeria
